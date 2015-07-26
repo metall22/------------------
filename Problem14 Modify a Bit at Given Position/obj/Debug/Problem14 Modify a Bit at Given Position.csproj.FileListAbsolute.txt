@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem14 Modify a Bit at Given Position\bin\Debug\Problem14 Modify a Bit at Given Position.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem14 Modify a Bit at Given Position\bin\Debug\Problem14 Modify a Bit at Given Position.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem14 Modify a Bit at Given Position\bin\Debug\Problem14 Modify a Bit at Given Position.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem14 Modify a Bit at Given Position\obj\Debug\Problem14 Modify a Bit at Given Position.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem14 Modify a Bit at Given Position\obj\Debug\Problem14 Modify a Bit at Given Position.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem14 Modify a Bit at Given Position\obj\Debug\Problem14 Modify a Bit at Given Position.pdb

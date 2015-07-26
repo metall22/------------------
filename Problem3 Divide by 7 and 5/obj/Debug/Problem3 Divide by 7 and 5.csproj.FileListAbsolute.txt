@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem3 Divide by 7 and 5\bin\Debug\Problem3 Divide by 7 and 5.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem3 Divide by 7 and 5\bin\Debug\Problem3 Divide by 7 and 5.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem3 Divide by 7 and 5\bin\Debug\Problem3 Divide by 7 and 5.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem3 Divide by 7 and 5\obj\Debug\Problem3 Divide by 7 and 5.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem3 Divide by 7 and 5\obj\Debug\Problem3 Divide by 7 and 5.pdb

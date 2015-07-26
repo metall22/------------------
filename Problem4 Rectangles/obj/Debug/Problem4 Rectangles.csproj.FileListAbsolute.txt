@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\bin\Debug\Problem4 Rectangles.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\bin\Debug\Problem4 Rectangles.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\bin\Debug\Problem4 Rectangles.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\obj\Debug\Problem4 Rectangles.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\obj\Debug\Problem4 Rectangles.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\obj\Debug\Problem4 Rectangles.pdb

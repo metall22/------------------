@@ -1,0 +1,3 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\10 Point Inside a Circle  Outside of aRectangle\bin\Debug\10 Point Inside a Circle  Outside of aRectangle.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\10 Point Inside a Circle  Outside of aRectangle\obj\Debug\10 Point Inside a Circle  Outside of aRectangle.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\10 Point Inside a Circle  Outside of aRectangle\obj\Debug\10 Point Inside a Circle  Outside of aRectangle.pdb

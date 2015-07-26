@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem9 Trapezoids\bin\Debug\Problem9 Trapezoids.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem9 Trapezoids\obj\Debug\Problem9 Trapezoids.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem9 Trapezoids\obj\Debug\Problem9 Trapezoids.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem9 Trapezoids\bin\Debug\Problem9 Trapezoids.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem9 Trapezoids\bin\Debug\Problem9 Trapezoids.pdb

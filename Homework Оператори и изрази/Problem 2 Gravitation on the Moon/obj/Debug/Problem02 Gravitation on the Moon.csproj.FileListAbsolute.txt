@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\bin\Debug\Problem 2 Gravitation on the Moon.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\obj\Debug\Problem 2 Gravitation on the Moon.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\obj\Debug\Problem 2 Gravitation on the Moon.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\bin\Debug\Problem 2 Gravitation on the Moon.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\bin\Debug\Problem 2 Gravitation on the Moon.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\obj\Debug\Problem02 Gravitation on the Moon.csprojResolveAssemblyReference.cache

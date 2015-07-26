@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem8 Prime Number Check\bin\Debug\Problem8 Prime Number Check.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem8 Prime Number Check\bin\Debug\Problem8 Prime Number Check.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem8 Prime Number Check\bin\Debug\Problem8 Prime Number Check.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem8 Prime Number Check\obj\Debug\Problem8 Prime Number Check.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem8 Prime Number Check\obj\Debug\Problem8 Prime Number Check.pdb

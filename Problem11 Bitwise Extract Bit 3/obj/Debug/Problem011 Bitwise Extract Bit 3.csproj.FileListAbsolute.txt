@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem11 Bitwise Extract Bit 3\bin\Debug\Problem11 Bitwise Extract Bit 3.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem11 Bitwise Extract Bit 3\bin\Debug\Problem11 Bitwise Extract Bit 3.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem11 Bitwise Extract Bit 3\bin\Debug\Problem11 Bitwise Extract Bit 3.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem11 Bitwise Extract Bit 3\obj\Debug\Problem011 Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem11 Bitwise Extract Bit 3\obj\Debug\Problem11 Bitwise Extract Bit 3.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem11 Bitwise Extract Bit 3\obj\Debug\Problem11 Bitwise Extract Bit 3.pdb

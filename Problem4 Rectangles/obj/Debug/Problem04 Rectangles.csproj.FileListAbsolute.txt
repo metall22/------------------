@@ -1,0 +1,3 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\bin\Debug\Problem4 Rectangles.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\obj\Debug\Problem4 Rectangles.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem4 Rectangles\obj\Debug\Problem4 Rectangles.pdb

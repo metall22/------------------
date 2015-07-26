@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\bin\Debug\Problem 2 Gravitation on the Moon.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\bin\Debug\Problem 2 Gravitation on the Moon.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\bin\Debug\Problem 2 Gravitation on the Moon.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\obj\Debug\Problem 2 Gravitation on the Moon.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Оператори и изрази\Problem 2 Gravitation on the Moon\obj\Debug\Problem 2 Gravitation on the Moon.pdb

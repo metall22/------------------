@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem7 Point in a Circle\bin\Debug\Problem7 Point in a Circle.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem7 Point in a Circle\obj\Debug\Problem7 Point in a Circle.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem7 Point in a Circle\bin\Debug\Problem7 Point in a Circle.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem7 Point in a Circle\bin\Debug\Problem7 Point in a Circle.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem7 Point in a Circle\obj\Debug\Problem7 Point in a Circle.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem7 Point in a Circle\obj\Debug\Problem7 Point in a Circle.pdb

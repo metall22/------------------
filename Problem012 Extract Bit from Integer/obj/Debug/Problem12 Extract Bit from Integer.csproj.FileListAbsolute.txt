@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem012 Extract Bit from Integer\bin\Debug\Problem012 Extract Bit from Integer.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem012 Extract Bit from Integer\obj\Debug\Problem12 Extract Bit from Integer.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem012 Extract Bit from Integer\bin\Debug\Problem012 Extract Bit from Integer.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem012 Extract Bit from Integer\bin\Debug\Problem012 Extract Bit from Integer.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem012 Extract Bit from Integer\obj\Debug\Problem012 Extract Bit from Integer.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Оператори и изрази\Problem012 Extract Bit from Integer\obj\Debug\Problem012 Extract Bit from Integer.pdb
